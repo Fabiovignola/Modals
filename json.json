@@ -1,0 +1,213 @@
+{
+	"people": [{
+			"name": "Alex Lopes",
+			"age": 31,
+			"role": "CTO",
+			"team": "Red",
+			"seniority": 3,
+			"contact_info": {
+				"photo": "http://oi66.tinypic.com/2nsuwoz.jpg",
+				"email": "alex@mymail.com",
+				"site": "http://www.alexsite.com",
+				"phone": "666-666-777",
+				"nickName": "The Boss"
+			}
+		},
+		{
+			"name": "Violeta Thio",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi64.tinypic.com/2nsuz50.jpg",
+				"email": "null",
+				"site": "http://www.viosite.com",
+				"phone": "666-666-777",
+				"nickName": "VioJob"
+			}
+		},
+		{
+			"name": "Dario Thor",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi65.tinypic.com/2nsvnli.jpg",
+				"email": "dario@mymail.com",
+				"site": "http://www.dario.com",
+				"phone": "666-666-777",
+				"nickName": "MrsDario"
+			}
+		},
+		{
+			"name": "Alberto Rodriguez",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi66.tinypic.com/2nsuz49.jpg",
+				"email": "alber@mymail.com",
+				"site": "http://www.alver.com",
+				"phone": "666-666-777",
+				"nickName": "Loba"
+			}
+		},
+		{
+			"name": "Oscar Rueda",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi66.tinypic.com/2nsuzk8.jpg",
+				"email": "oscar@mymail.com",
+				"site": "http://www.oscar.com",
+				"phone": "666-666-777",
+				"nickName": "eloscar"
+			}
+		},
+		{
+			"name": "Sara Gallardo",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi63.tinypic.com/2nsvqjc.jpg",
+				"email": "sara@mymail.com",
+				"site": "http://www.sara.com",
+				"phone": "666-666-777",
+				"nickName": "sarita"
+			}
+		},
+		{
+			"name": "Esneider Sanchez",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi67.tinypic.com/2nsvtzk.jpg",
+				"email": "puto@mymail.com",
+				"site": "http://www.esneider.com",
+				"phone": "453-123-456",
+				"nickName": "ElputoEsneider"
+			}
+		},
+		{
+			"name": "Micaela Lescano",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi66.tinypic.com/2nsvs4l.jpg",
+				"email": "mica@mymail.com",
+				"site": "http://www.mica.com",
+				"phone": "786-786-456",
+				"nickName": "Mica"
+			}
+		},
+		{
+			"name": "Jorge Doming",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi63.tinypic.com/2nsvo6a.jpg",
+				"email": "jorgi@mymail.com",
+				"site": "http://www.Jorgito.com",
+				"phone": "666-666-777",
+				"nickName": "Yorch"
+			}
+		},
+		{
+			"name": "Uriel Dash",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi67.tinypic.com/2nsv2af.jpg",
+				"email": "uri@mymail.com",
+				"site": "http://www.uri.com",
+				"phone": "945-789-777",
+				"nickName": "uri"
+			}
+		},
+		{
+			"name": "Leonardo Gonzalez",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi67.tinypic.com/2nsvr4m.jpg",
+				"email": "leonardo@mymail.com",
+				"site": "http://www.leonardo.com",
+				"phone": "456-123-123",
+				"nickName": "leonaD"
+			}
+		},
+		{
+			"name": "Ornella Vignola",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi64.tinypic.com/2nsvp4x.jpg",
+				"email": "ornella@mymail.com",
+				"site": "http://www.ornella.com",
+				"phone": "465-123-456",
+				"nickName": "orne"
+			}
+		}, {
+			"name": "Liliette Heredia",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi66.tinypic.com/2nsuzqh.jpg",
+				"email": "lili@mymail.com",
+				"site": "http://www.lili.com",
+				"phone": "456-945-123",
+				"nickName": "lili"
+			}
+		},
+		{
+			"name": "Don Ramon",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "Purple",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi65.tinypic.com/2nsuzk4.jpg",
+				"email": "mrdon@mymail.com",
+				"site": "http://www.donramon.com",
+				"phone": "456-123-123",
+				"nickName": "MrsDon"
+			}
+		},
+		{
+			"name": "Alexander Martinez",
+			"age": 25,
+			"role": "Job Placement",
+			"team": "negro",
+			"seniority": 6,
+			"contact_info": {
+				"photo": "http://oi64.tinypic.com/2nsuznm.jpg",
+				"email": "alexxito@mymail.com",
+				"site": "http://www.alexitos.com",
+				"phone": "345-456-456",
+				"nickName": "Alexbello"
+			}
+		}
+
+	]
+}

@@ -1,0 +1,11 @@
+img{
+    width: 80px;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+p {
+    text-align-last: center;
+}
+h1{
+    text-align: center;
+}
